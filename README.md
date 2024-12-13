@@ -17,10 +17,7 @@ maker_checker_service/
 │   └── main.go
 ├── internal/
 │   ├── handler/
-│   │   ├── message.go
-│   │   └── status.go
-│   └── storage/
-│       └── message_store.go
+│       └── handler.go
 ├── pkg/
 │   └── model/
 │       └── message.go
