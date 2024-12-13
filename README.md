@@ -36,14 +36,14 @@ maker_checker_service/
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
-   cd maker_checker_service
+   git clone [MakerChecker](https://github.com/ManinderSinghRajput/MakerCheker.git)
+   cd MakerChecker
    ```
 
 2. Build and run the application using the provided Makefile:
    ```bash
    make build
-   ./bin/maker_checker_service
+   ./bin/MakerChecker
    ```
    Or run directly:
    ```bash
