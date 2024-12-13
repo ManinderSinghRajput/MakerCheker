@@ -36,7 +36,7 @@ maker_checker_service/
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone [MakerChecker](https://github.com/ManinderSinghRajput/MakerCheker.git)
+   git clone https://github.com/ManinderSinghRajput/MakerCheker.git
    cd MakerChecker
    ```
 
