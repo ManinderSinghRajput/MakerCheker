@@ -16,7 +16,7 @@ maker_checker_service/
 ├── cmd/
 │   └── main.go
 ├── internal/
-│   ├── handler/
+│   └── handler/
 │       └── handler.go
 ├── pkg/
 │   └── model/
